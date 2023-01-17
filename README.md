@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ayushsh841
-- 👀 I’m a Full Stack developer on Dot Net Core
-- 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on any projects related to UI development or blockchain technologies
+- 👀 I’m a Full Stack developer on Dot Net Core, dabbling with other technologies while trying to learn something new
 - 📫 Drop a mail on ayushsh841@gmail.com, let's build the idea!
 
 <!---
